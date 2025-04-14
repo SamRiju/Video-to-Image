@@ -28,7 +28,7 @@ def main():
 
 
 
-    input_folder = "D:/Sam/Main PROJECT/ACTION DETECTION/!test dataset/my"  # Change this to your folder path
+    input_folder = "D:/Sam/Main PROJECT/ACTION DETECTION/!test dataset/my"  # Change this to folder path
 
 
 
